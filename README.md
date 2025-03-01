@@ -20,8 +20,8 @@ The user can see the resutls for a game by clicking the came in the TableView.
 The user can then return to the home screen by clicking the return button.
 
 ## Initial Schedule Screen
-<img src="https://github.com/dsample001/CPSC5330-Assignment-6/blob/main/Docs/Main_Screen.png?raw=true" width="200">
+<img src="https://github.com/dsample001/CPSC5330-Assignment-7/blob/main/Docs/Main_Screen.png?raw=true" width="200">
 
 
 ## Game Detail Screen
-<img src="https://github.com/dsample001/CPSC5330-Assignment-6/blob/main/Docs/Game_Detail_Screen.png?raw=true" width="200">
+<img src="https://github.com/dsample001/CPSC5330-Assignment-7/blob/main/Docs/Game_Detail_Screen.png?raw=true" width="200">
